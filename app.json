@@ -1,0 +1,11 @@
+{
+  "expo": {
+   "name": "carhire",
+   "version": "1.0.0",
+   "slug": "josh-timer",
+   "sdkVersion": "34.0.0",
+   "android": {
+     "package": "com.yourcompany.yourappname"
+   }
+  }
+}
